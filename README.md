@@ -1,4 +1,4 @@
-VBA-TTB - a GameBoy Advance emulator
+VBA - a GameBoy Advance emulator
 ====================================
 
 VBA Development
